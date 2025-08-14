@@ -52,7 +52,7 @@ You can deploy this app using:
 
 ## 👤 Developed by
 
-**Bungpurlu Basumatary**  
+santanukoushikdas 
 Internship Project – 2025
 
 ---
@@ -70,6 +70,6 @@ Internship Project – 2025
 ## 📄 License
 
 This project is for educational purposes only.  
-© 2025 Bungpurlu Basumatary
+
 
 
